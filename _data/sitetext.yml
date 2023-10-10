@@ -11,29 +11,29 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Summer Fest
+    text: Mario & Simon
+    button: To party
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Summer Fest"
+    text: "We invite you to celebrate with us!"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Love"
+        desc: "Celebrate with us our freedom to love who we want."
+        icon: fas fa-heart #find more at https://fontawesome.com/icons
+      - title: "Party"
+        desc: "Eat and drink with us"
+        icon: fas fa-wine-glass
+      - title: "Dance"
+        desc: "Dance with us"
+        icon: fas fa-music
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Information"
+    text: "All you need to know about this celebration"
     section: portfolio
     closebutton: "Close Project"
 
